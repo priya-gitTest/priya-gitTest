@@ -23,7 +23,7 @@ https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D
 
 ## Some pics for entertainment :) 
 
-![20220115_094213](https://github.com/priya-gitTest/Priyanka/assets/21082240/1db0a0f8-43cf-46e4-97bb-7d21498b9c35)
+![20220115_094213](https://github.com/priya-gitTest/Priyanka/assets/21082240/1db0a0f8-43cf-46e4-97bb-7d21498b9c35 width="100" height="100">)
 ![20220503_111242](https://github.com/priya-gitTest/Priyanka/assets/21082240/71f2be18-2865-4ac6-9d62-5b79847878b1)
 ![20210101_153114](https://github.com/priya-gitTest/Priyanka/assets/21082240/cc91972a-b601-46e1-8d5b-0fdea68604c7)
 ![20190413_124206](https://github.com/priya-gitTest/Priyanka/assets/21082240/c1f709e7-d0a2-4a75-a66a-941efda901cf)
