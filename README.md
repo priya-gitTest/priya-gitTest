@@ -12,7 +12,9 @@ Currently involved with Open Data, Open Source and Open Science in Research (Med
 Some very small bits of open stuff.. rest is all in some SILO :(
 
 http://dx.doi.org/10.1016/S0167-8140(19)30964-8
+
 http://dx.doi.org/10.1016/j.radonc.2019.11.019
+
 ---
 https://numfocus.org/blog/worldwide-pandas-sprint
 
