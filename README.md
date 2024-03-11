@@ -7,7 +7,7 @@ General Purpose Software developer especially doing Python + SQL nowadays.
 
 Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.Net, ASP3.0, ASP.NET, C# , Python, SQL.....
 
-Currently involved with Open Data, Open Source and Open Science in Research (Medical / Educational) Domanin
+Currently involved with Open Data, Open Source and Open Science in Research (Medical / Educational) Domain
 
 Some very small bits of open stuff.. rest is all in some SILO :(
 
