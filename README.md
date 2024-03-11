@@ -1,5 +1,5 @@
 # **Priyanka**
-## Priyanka in Netherlands :woman_technologist
+## Priyanka in Netherlands 
 
 ```
 General Purpose Software developer especially doing Python + SQL nowadays.
