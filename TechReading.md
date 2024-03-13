@@ -15,6 +15,8 @@
 1. https://zenodo.org/records/10730123
 
 Example Project : https://github.com/binzzheng/DVC-PyTorch
+
+FsstDS[https://dagshub.com/blog/fds-fast-data-science-with-git-and-dvc/]
 https://github.com/DagsHub/fds
 
 ### Tech Bloggers (I like)
