@@ -23,7 +23,7 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 [Distributed learning on 20 000+ lung cancer patients – The Personal Health Train](http://dx.doi.org/10.1016/j.radonc.2019.11.019)
 
 ---
-https://numfocus.org/blog/worldwide-pandas-sprint
+[The Worldwide Pandas Documentation Sprint: A Closer Look](https://numfocus.org/blog/worldwide-pandas-sprint)
 
 https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D=true
 
