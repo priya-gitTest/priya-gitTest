@@ -14,6 +14,7 @@
 ### Data Versioning
 1. https://zenodo.org/records/10730123
 
+Example Project : https://github.com/binzzheng/DVC-PyTorch
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
