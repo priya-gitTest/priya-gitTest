@@ -1,6 +1,7 @@
 # **Priyanka**
 ## Priyanka in Netherlands 
 
+*My opinins here in this repo are my own*
 ```
 General Purpose Software developer especially doing Python + SQL nowadays and tons of my own Research in the mighty Sun !!! .
 ```
