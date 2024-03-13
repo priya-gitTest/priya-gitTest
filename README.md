@@ -5,6 +5,16 @@
 General Purpose Software developer especially doing Python + SQL nowadays and tons of my own Research in the mighty Sun !!! .
 ```
 
+```
+आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – 1.89.1
+āno bhadrāḥ kratavo yantu viśvato
+Let noble thoughts come to us from all directions.
+Rig Veda 1.89.1
+
+
+My version : Let knowledge come to us from all directions !!!
+```
+
 Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.Net, ASP3.0, ASP.NET, C# , Python, SQL.....
 
 Currently involved with Open Data, Open Source and Open Science in Research (Medical / Educational) Domain, Policy making...
