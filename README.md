@@ -25,7 +25,7 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 ---
 [The Worldwide Pandas Documentation Sprint: A Closer Look](https://numfocus.org/blog/worldwide-pandas-sprint)
 
-[A Data Management Plan](https://dmponline.dcc.ac.uk/plans/85128/export.pdf)
+[A Data Management Plan](https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D=true)
 
 https://society-rse.org/rse-catalyst-awards/
 
