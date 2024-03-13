@@ -12,7 +12,7 @@
 7. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
 
 ### Data Versioning
-1. https://zenodo.org/records/10730123
+1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
 
 Example Project : https://github.com/binzzheng/DVC-PyTorch
 
