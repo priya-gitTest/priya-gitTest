@@ -1,7 +1,7 @@
 ## Interesting Guides
 
-1.https://opensource.guide/
-Research Engineering Handbook [https://alan-turing-institute.github.io/REG-handbook/]
+1. https://opensource.guide/
+2. Research Engineering Handbook [https://alan-turing-institute.github.io/REG-handbook/]
 
 
 ## Free Courses : 
