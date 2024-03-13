@@ -11,3 +11,7 @@
 
 ### Data Versioning
 1. https://zenodo.org/records/10730123
+
+
+### Tech Bloggers (I like)
+1. https://third-bit.com/ideas/research/
