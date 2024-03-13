@@ -6,11 +6,9 @@ General Purpose Software developer especially doing Python + SQL nowadays and to
 ```
 
 ```
-आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – 1.89.1
+आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – Rig Veda 1.89.1
 āno bhadrāḥ kratavo yantu viśvato
 Let noble thoughts come to us from all directions.
-Rig Veda 1.89.1
-
 
 My version : Let knowledge come to us from all directions !!!
 ```
