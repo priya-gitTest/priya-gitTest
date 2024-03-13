@@ -27,7 +27,7 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 
 [A Data Management Plan](https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D=true)
 
-https://society-rse.org/rse-catalyst-awards/
+[RSE Catalyst Awards](https://society-rse.org/rse-catalyst-awards/)
 
 
 ## Some pics for entertainment :) 
