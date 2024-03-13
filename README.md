@@ -9,6 +9,9 @@ Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.N
 
 Currently involved with Open Data, Open Source and Open Science in Research (Medical / Educational) Domain, Policy making...
 
+Currently busy with : https://github.com/priya-gitTest/priya-gitTest/blob/main/TechReading.md 
+
+
 Some very small bits of open stuff.. rest is all in some SILO :(
 
 http://dx.doi.org/10.1016/S0167-8140(19)30964-8
