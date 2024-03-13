@@ -16,3 +16,7 @@
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
+
+
+### General SE
+1. https://arxiv.org/abs/2310.10817
