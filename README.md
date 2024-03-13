@@ -10,6 +10,8 @@ General Purpose Software developer especially doing Python + SQL nowadays and to
 āno bhadrāḥ kratavo yantu viśvato
 Let noble thoughts come to us from all directions.
 
+Full version : https://ancientscience.in/rigveda/rigveda1-89-1
+
 My version : Let knowledge come to us from all directions !!!
 ```
 
