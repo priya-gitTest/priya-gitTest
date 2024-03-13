@@ -9,7 +9,7 @@
 4. [Intelligent analysis for software data: research and applications](https://link.springer.com/article/10.1631/FITEE.2230000)
 5. https://openresearchsoftware.metajnl.com/articles/10.5334/jors.384
 6. [Rethinking Software Engineering in the Foundation Model Era: A Curated Catalogue of Challenges in the Development of Trustworthy FMware](https://arxiv.org/abs/2402.15943)
-7. https://arxiv.org/pdf/2402.19038.pdf
+7. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
 
 ### Data Versioning
 1. https://zenodo.org/records/10730123
