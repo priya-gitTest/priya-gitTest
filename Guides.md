@@ -10,3 +10,4 @@
 
 ## Useful Links
 [Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
+[Writing for Software Engineers: Beyond the Basics](https://thenewstack.io/writing-for-software-engineers-beyond-the-basics/)
