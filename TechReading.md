@@ -5,7 +5,7 @@
 ### Software Management Plan / SE
 1. [machine-actionable Software Management Plan Ontology (maSMP Ontology)](https://zenodo.org/records/10582073)
 2. [Usage guidance (aka profiles) for the machine-actionable Software Management Plan Ontology](https://zenodo.org/records/10582121)
-3. https://zenodo.org/records/8199104
+3. [D4.4 - Guidelines for recommended metadata standard for research software within EOSC](https://zenodo.org/records/8199104)
 4. https://link.springer.com/article/10.1631/FITEE.2230000
 5. https://openresearchsoftware.metajnl.com/articles/10.5334/jors.384
 6. https://arxiv.org/abs/2402.15943
