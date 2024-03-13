@@ -7,3 +7,6 @@
 
 ## Free Courses : 
 1. [Data Ethics](https://ethics.fast.ai/syllabus/index.html)
+
+## Useful Links
+[Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
