@@ -8,4 +8,4 @@
 3. https://zenodo.org/records/8199104
 
 ### Data Versioning
-1.https://zenodo.org/records/10730123
+1. https://zenodo.org/records/10730123
