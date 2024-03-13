@@ -15,6 +15,7 @@
 1. https://zenodo.org/records/10730123
 
 Example Project : https://github.com/binzzheng/DVC-PyTorch
+https://github.com/DagsHub/fds
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
