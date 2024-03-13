@@ -7,6 +7,7 @@
 
 ## Free Courses : 
 1. [Data Ethics](https://ethics.fast.ai/syllabus/index.html)
+2. [AI-For-Beginners](https://microsoft.github.io/AI-For-Beginners/)
 
 ## Useful Links
 1. [Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
