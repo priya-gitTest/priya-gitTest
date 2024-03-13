@@ -17,6 +17,10 @@
        - https://github.com/ResearchObject/ro-crate-py
        - https://www.rd-alliance.org/sites/default/files/2021-02-25-ro-crate-fdo-FINAL.pdf
        - https://pure.uva.nl/ws/files/89439203/ds_2022_5_2_ds_5_2_ds210053_ds_5_ds210053.pdf
+       - https://catalogue.fair-impact.eu/resources/ro-crate
+       - https://cs3mesh4eosc.eu/technologies/describo-and-ro-crate
+       - https://about.workflowhub.eu/Workflow-RO-Crate/
+       - https://gallantries.github.io/video-library/modules/ro-crate
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
