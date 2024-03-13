@@ -26,3 +26,4 @@ Example Project : https://github.com/binzzheng/DVC-PyTorch
 
 ### General SE
 1. https://arxiv.org/abs/2310.10817
+2. [Knowledge Graph](https://textmine.com/post/an-introduction-to-knowledge-graphs)
