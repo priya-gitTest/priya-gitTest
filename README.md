@@ -2,7 +2,7 @@
 ## Priyanka in Netherlands 
 
 ```
-General Purpose Software developer especially doing Python + SQL nowadays and tons of my own Research in the might Sun !!! .
+General Purpose Software developer especially doing Python + SQL nowadays and tons of my own Research in the mighty Sun !!! .
 ```
 
 Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.Net, ASP3.0, ASP.NET, C# , Python, SQL.....
