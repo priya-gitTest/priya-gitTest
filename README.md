@@ -12,7 +12,7 @@ Currently involved with Open Data, Open Source and Open Science in Research (Med
 Currently busy with : https://github.com/priya-gitTest/priya-gitTest/blob/main/TechReading.md 
 
 
-Some very small bits of open stuff.. rest is all in some SILO :(
+Some very small bits of open contributions.. rest is all in some SILO :(
 
 http://dx.doi.org/10.1016/S0167-8140(19)30964-8
 
@@ -22,6 +22,8 @@ http://dx.doi.org/10.1016/j.radonc.2019.11.019
 https://numfocus.org/blog/worldwide-pandas-sprint
 
 https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D=true
+
+https://society-rse.org/rse-catalyst-awards/
 
 
 ## Some pics for entertainment :) 
