@@ -13,6 +13,8 @@ Currently busy with : https://github.com/priya-gitTest/priya-gitTest/blob/main/T
 
 Also see some interesting Guides here : https://github.com/priya-gitTest/priya-gitTest/blob/main/Guides.md
 
+Some Tech Toolings[https://github.com/priya-gitTest/priya-gitTest/blob/main/Toolings.md] and Notebooks[https://github.com/priya-gitTest/priya-gitTest/blob/main/NoteBooks.md]
+
 Some very small bits of open contributions.. rest is all in some SILO :(
 
 http://dx.doi.org/10.1016/S0167-8140(19)30964-8
