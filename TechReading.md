@@ -16,8 +16,7 @@
 
 Example Project : https://github.com/binzzheng/DVC-PyTorch
 
-FsstDS[https://dagshub.com/blog/fds-fast-data-science-with-git-and-dvc/]
-https://github.com/DagsHub/fds
+
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
