@@ -9,5 +9,5 @@
 1. [Data Ethics](https://ethics.fast.ai/syllabus/index.html)
 
 ## Useful Links
-[Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
-[Writing for Software Engineers: Beyond the Basics](https://thenewstack.io/writing-for-software-engineers-beyond-the-basics/)
+1. [Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
+2. [Writing for Software Engineers: Beyond the Basics](https://thenewstack.io/writing-for-software-engineers-beyond-the-basics/)
