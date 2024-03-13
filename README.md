@@ -11,6 +11,7 @@ Currently involved with Open Data, Open Source and Open Science in Research (Med
 
 Currently busy with : https://github.com/priya-gitTest/priya-gitTest/blob/main/TechReading.md 
 
+Also see some interesting Guides here : https://github.com/priya-gitTest/priya-gitTest/blob/main/Guides.md
 
 Some very small bits of open contributions.. rest is all in some SILO :(
 
