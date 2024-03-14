@@ -12,7 +12,8 @@
 7. [Rethinking Software Engineering in the Foundation Model Era: A Curated Catalogue of Challenges in the Development of Trustworthy FMware](https://arxiv.org/abs/2402.15943)
 8. [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool](https://www.nature.com/articles/s41597-023-02463-x)
 9. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
-10. [RO-Crate](https://www.researchobject.org/ro-crate/)
+10. [Scicodes](https://scicodes.net/)
+11. [RO-Crate](https://www.researchobject.org/ro-crate/)
        - https://github.com/ResearchObject/ro-crate,
        - https://github.com/ResearchObject/ro-crate-py
        - https://www.rd-alliance.org/sites/default/files/2021-02-25-ro-crate-fdo-FINAL.pdf
