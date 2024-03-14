@@ -15,7 +15,8 @@
 10. [Scicodes](https://scicodes.net/)
 11. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
 12. [Citation File Format (CFF)](https://citation-file-format.github.io/)
-13. [RO-Crate](https://www.researchobject.org/ro-crate/)
+13. [Software Heritage](https://docs.softwareheritage.org/index.html)
+14. [RO-Crate](https://www.researchobject.org/ro-crate/)
        - https://github.com/ResearchObject/ro-crate,
        - https://github.com/ResearchObject/ro-crate-py
        - https://www.rd-alliance.org/sites/default/files/2021-02-25-ro-crate-fdo-FINAL.pdf
