@@ -14,3 +14,4 @@
 1. [Writing for Software Engineers: Read Me First](https://thenewstack.io/writing-for-software-engineers-read-me-first/)
 2. [Writing for Software Engineers: Beyond the Basics](https://thenewstack.io/writing-for-software-engineers-beyond-the-basics/)
 3. [Why I blog](https://muratbuffalo.blogspot.com/2024/03/why-i-blog.html)
+4. [Better Academic Research Writing: A Practical Guide](https://maken.wikiwijs.nl/178152/Better_Academic_Research_Writing__A_Practical_Guide)
