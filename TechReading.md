@@ -14,7 +14,7 @@
 9. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
 10. [Scicodes](https://scicodes.net/)
 11. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
-12. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs BibTex [https://news.ycombinator.com/item?id=28246899]
+12. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs BibTeX [https://news.ycombinator.com/item?id=28246899]
 13. [Software Heritage](https://docs.softwareheritage.org/index.html)
 14. [RO-Crate](https://www.researchobject.org/ro-crate/)
        - https://github.com/ResearchObject/ro-crate,
