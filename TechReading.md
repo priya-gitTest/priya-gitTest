@@ -11,12 +11,13 @@
 6. [The Research Software Encyclopedia: A Community Framework to Define Research Software](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.359)
 7. [Rethinking Software Engineering in the Foundation Model Era: A Curated Catalogue of Challenges in the Development of Trustworthy FMware](https://arxiv.org/abs/2402.15943)
 8. [Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool](https://www.nature.com/articles/s41597-023-02463-x)
-9. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
-10. [Scicodes](https://scicodes.net/)
-11. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
-12. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs [BibTeX](https://www.bibtex.com/g/bibtex-format/)    [Conversion](https://news.ycombinator.com/item?id=28246899)
-13. [Software Heritage](https://docs.softwareheritage.org/index.html)
-14. [RO-Crate](https://www.researchobject.org/ro-crate/)
+9. [Ten quick tips for building FAIR workflows](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369)
+10. [Understanding Fairness in Software Engineering: Insights from Stack Exchange Sites](https://arxiv.org/pdf/2402.19038.pdf)
+11. [Scicodes](https://scicodes.net/)
+12. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
+13. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs [BibTeX](https://www.bibtex.com/g/bibtex-format/)    [Conversion](https://news.ycombinator.com/item?id=28246899)
+14. [Software Heritage](https://docs.softwareheritage.org/index.html)
+15. [RO-Crate](https://www.researchobject.org/ro-crate/)
        - https://github.com/ResearchObject/ro-crate,
        - https://github.com/ResearchObject/ro-crate-py
        - https://www.rd-alliance.org/sites/default/files/2021-02-25-ro-crate-fdo-FINAL.pdf
