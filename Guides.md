@@ -3,6 +3,7 @@
 1. https://opensource.guide/
 2. [Research Engineering Handbook](https://alan-turing-institute.github.io/REG-handbook/)
 3. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://zenodo.org/records/7625728)
+4. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 
 ## Free Courses : 
