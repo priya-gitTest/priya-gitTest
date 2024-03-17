@@ -18,7 +18,7 @@ Let noble thoughts come to us from from every side.
 
 Full version : https://ancientscience.in/rigveda/rigveda1-89-1
 
-My version : Let knowledge come to us from all directions !!!
+My version : Let knowledge come to us from every side. !!!
 ```
 
 Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.Net, ASP3.0, ASP.NET, C# , Python, SQL.....
