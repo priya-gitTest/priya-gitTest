@@ -17,3 +17,10 @@
 2. [Writing for Software Engineers: Beyond the Basics](https://thenewstack.io/writing-for-software-engineers-beyond-the-basics/)
 3. [Why I blog](https://muratbuffalo.blogspot.com/2024/03/why-i-blog.html)
 4. [Better Academic Research Writing: A Practical Guide](https://maken.wikiwijs.nl/178152/Better_Academic_Research_Writing__A_Practical_Guide)
+
+
+## Articles/ Books
+1. [They-Write-the-Right-Stuff](https://inst.eecs.berkeley.edu/~cs162/sp13/hand-outs/They-Write-the-Right-Stuff.pdf)
+2. [Edsger W. Dijkstra](https://www.cs.utexas.edu/users/EWD/)
+3. [Domain Language][(](https://www.domainlanguage.com/ddd/blue-book/)https://www.domainlanguage.com/ddd/blue-book/)
+4. [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
