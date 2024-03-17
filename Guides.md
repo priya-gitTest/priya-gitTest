@@ -5,6 +5,7 @@
 3. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://zenodo.org/records/7625728)
 4. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 5. [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
+6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ## Free Courses : 
