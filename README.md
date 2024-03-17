@@ -9,7 +9,7 @@ General Purpose Software developer especially doing Python + SQL nowadays and to
 ```
 आनो भद्राः क्रतवो यन्तु विश्वत: | ऋग्वेद – Rig Veda 1.89.1
 āno bhadrāḥ kratavo yantu viśvato
-Let noble thoughts come to us from all directions.
+Let noble thoughts come to us from from every side.
 
 
 * This text was all over my school walls.. such an inspiration !!!
