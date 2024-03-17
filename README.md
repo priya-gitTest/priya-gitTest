@@ -11,6 +11,11 @@ General Purpose Software developer especially doing Python + SQL nowadays and to
 āno bhadrāḥ kratavo yantu viśvato
 Let noble thoughts come to us from all directions.
 
+
+* This text was all over my school walls.. such an inspiration !!!
+
+<<Bhavan’s ideal is : Vasudhaiva Kutumbakam – the world is one family. Bhavan’s motto is:  Aa No Bhadra Kratvo Yantu Vishwatah- let noble thoughts come to us from every side.>>
+
 Full version : https://ancientscience.in/rigveda/rigveda1-89-1
 
 My version : Let knowledge come to us from all directions !!!
