@@ -6,3 +6,4 @@ https://github.com/DagsHub/fds
 3. [NN Template](https://github.com/grok-ai/nn-template), https://grok-ai.github.io/nn-template/0.4/features/bestpractices/
 4. [XTable](https://github.com/apache/incubator-xtable)
 5. [Code. Simply. Clearly. Calmly.](https://calmcode.io/)
+6. [MLOps Tools 2024](https://www.datacamp.com/blog/top-mlops-tools)
