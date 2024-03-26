@@ -45,6 +45,8 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 
 [RSE Catalyst Awards](https://society-rse.org/rse-catalyst-awards/)
 
+## Open Source Contributions :
+  1. https://github.com/pydantic/pydantic/issues/6700
 
 ## Some pics for entertainment :) 
 
