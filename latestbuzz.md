@@ -13,4 +13,5 @@
 - [d0lt](https://docs.dolthub.com/introduction/what-is-dolt)
 - [codellama](https://github.com/meta-llama/codellama)
      https://ai.meta.com/blog/code-llama-large-language-model-coding/
+  [An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets](https://arxiv.org/abs/2403.15230)
 -  -
