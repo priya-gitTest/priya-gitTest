@@ -6,6 +6,7 @@
 4. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 5. [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+7. [The twelve-factor methodology](https://12factor.net/)
 
 
 ## Free Courses : 
