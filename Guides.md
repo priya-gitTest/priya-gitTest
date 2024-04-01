@@ -8,7 +8,7 @@
 6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 7. [The twelve-factor methodology](https://12factor.net/)    [The Twelve-Factor App: Best Practices for Cloud-Native Applications](https://medium.com/@tech_18484/introduction-701b7a8f4730)
 8. [Python Design Patterns](https://python-patterns.guide/)
-9. 
+9. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 
 ## Free Courses : 
