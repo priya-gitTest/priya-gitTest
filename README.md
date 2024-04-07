@@ -59,3 +59,7 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 <img src="https://github.com/priya-gitTest/Priyanka/assets/21082240/d4641be1-e78a-49a4-96cc-95ab1d3607a2" width="350" height="250">
 <img src="https://github.com/priya-gitTest/Priyanka/assets/21082240/62699f2c-7f08-4d29-9e84-5fbc3f27dfbb" width="350" height="250">
 
+
+
+## Food for Thought 
+![image](https://github.com/priya-gitTest/priya-gitTest/assets/21082240/ebbdf868-bcad-4f71-b53e-2fc0eea4c900)
