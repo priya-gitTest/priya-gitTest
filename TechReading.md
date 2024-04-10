@@ -26,6 +26,7 @@
        - https://cs3mesh4eosc.eu/technologies/describo-and-ro-crate
        - https://about.workflowhub.eu/Workflow-RO-Crate/
        - https://gallantries.github.io/video-library/modules/ro-crate
+16. [Dias: Dynamic Rewriting of Pandas Code](https://doi.org/10.1145/3639313)
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
