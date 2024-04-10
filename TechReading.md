@@ -27,6 +27,16 @@
        - https://about.workflowhub.eu/Workflow-RO-Crate/
        - https://gallantries.github.io/video-library/modules/ro-crate
 16. [Dias: Dynamic Rewriting of Pandas Code](https://doi.org/10.1145/3639313)
+17. In Database Data Imputation : https://doi.org/10.1145/3639326
+18. DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay https://doi.org/10.1145/3639322
+19. Machine Unlearning in Learned Databases: An Experimental Analysis  https://doi.org/10.1145/3639304
+20. Determining the Largest Overlap between Tables : https://doi.org/10.1145/3639303
+21. Modeling Shifting Workloads for Learned Database Systems : https://doi.org/10.1145/3639293
+22. Controllable Tabular Data Synthesis Using Diffusion Models : https://doi.org/10.1145/3639283
+23. Spruce: a Fast yet Space-saving Structure for Dynamic Graph Storage : https://doi.org/10.1145/3639282
+24. Optimizing Dataflow Systems for Scalable Interactive Visualization : https://doi.org/10.1145/3639276
+25. LIT: Lightning-fast In-memory Temporal Indexing : https://doi.org/10.1145/3639275
+26. Optimizing Nested Recursive Queries : https://doi.org/10.1145/3639271
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
