@@ -9,7 +9,7 @@
 7. [The twelve-factor methodology](https://12factor.net/)    [The Twelve-Factor App: Best Practices for Cloud-Native Applications](https://medium.com/@tech_18484/introduction-701b7a8f4730)
 8. [Python Design Patterns](https://python-patterns.guide/)
 9. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-10. 
+10. [Creating an open source Python project from scratch](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
 
 
 ## Free Courses : 
