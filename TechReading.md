@@ -46,7 +46,8 @@
 
 Example Project : https://github.com/binzzheng/DVC-PyTorch
 
-
+### Software Citations
+1. [Journal Production Guidance for Software and Data Citations](https://www.nature.com/articles/s41597-023-02491-7)
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
