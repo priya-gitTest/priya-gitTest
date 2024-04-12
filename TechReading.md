@@ -17,7 +17,8 @@
 12. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
 13. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs [BibTeX](https://www.bibtex.com/g/bibtex-format/)    [Conversion](https://news.ycombinator.com/item?id=28246899)
 14. [Software Heritage](https://docs.softwareheritage.org/index.html)
-15. [RO-Crate](https://www.researchobject.org/ro-crate/)
+15. https://edsbook.org/notebooks/about - also mentions RO-Crate
+16. [RO-Crate](https://www.researchobject.org/ro-crate/)
        - https://github.com/ResearchObject/ro-crate,
        - https://github.com/ResearchObject/ro-crate-py
        - https://www.rd-alliance.org/sites/default/files/2021-02-25-ro-crate-fdo-FINAL.pdf
@@ -26,17 +27,17 @@
        - https://cs3mesh4eosc.eu/technologies/describo-and-ro-crate
        - https://about.workflowhub.eu/Workflow-RO-Crate/
        - https://gallantries.github.io/video-library/modules/ro-crate
-16. [Dias: Dynamic Rewriting of Pandas Code](https://doi.org/10.1145/3639313)
-17. In Database Data Imputation : https://doi.org/10.1145/3639326
-18. DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay https://doi.org/10.1145/3639322
-19. Machine Unlearning in Learned Databases: An Experimental Analysis  https://doi.org/10.1145/3639304
-20. Determining the Largest Overlap between Tables : https://doi.org/10.1145/3639303
-21. Modeling Shifting Workloads for Learned Database Systems : https://doi.org/10.1145/3639293
-22. Controllable Tabular Data Synthesis Using Diffusion Models : https://doi.org/10.1145/3639283
-23. Spruce: a Fast yet Space-saving Structure for Dynamic Graph Storage : https://doi.org/10.1145/3639282
-24. Optimizing Dataflow Systems for Scalable Interactive Visualization : https://doi.org/10.1145/3639276
-25. LIT: Lightning-fast In-memory Temporal Indexing : https://doi.org/10.1145/3639275
-26. Optimizing Nested Recursive Queries : https://doi.org/10.1145/3639271
+17. [Dias: Dynamic Rewriting of Pandas Code](https://doi.org/10.1145/3639313)
+18. In Database Data Imputation : https://doi.org/10.1145/3639326
+19. DoppelGanger++: Towards Fast Dependency Graph Generation for Database Replay https://doi.org/10.1145/3639322
+20. Machine Unlearning in Learned Databases: An Experimental Analysis  https://doi.org/10.1145/3639304
+21. Determining the Largest Overlap between Tables : https://doi.org/10.1145/3639303
+22. Modeling Shifting Workloads for Learned Database Systems : https://doi.org/10.1145/3639293
+23. Controllable Tabular Data Synthesis Using Diffusion Models : https://doi.org/10.1145/3639283
+24. Spruce: a Fast yet Space-saving Structure for Dynamic Graph Storage : https://doi.org/10.1145/3639282
+25. Optimizing Dataflow Systems for Scalable Interactive Visualization : https://doi.org/10.1145/3639276
+26. LIT: Lightning-fast In-memory Temporal Indexing : https://doi.org/10.1145/3639275
+27. Optimizing Nested Recursive Queries : https://doi.org/10.1145/3639271
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
