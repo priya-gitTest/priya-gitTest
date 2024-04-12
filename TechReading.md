@@ -54,6 +54,7 @@ Example Project : https://github.com/binzzheng/DVC-PyTorch
 5. [Citation File Format - Status and current challenges](https://zenodo.org/records/6990678)
 6. [How to cite and describe software](https://www.software.ac.uk/publication/how-cite-and-describe-software)
 7. [Software Citation ; datacite.org](https://support.datacite.org/docs/software-citation)
+8. [Citation File Format 2021](https://zenodo.org/records/5171937)
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
