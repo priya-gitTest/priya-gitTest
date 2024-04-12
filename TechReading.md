@@ -48,6 +48,11 @@ Example Project : https://github.com/binzzheng/DVC-PyTorch
 
 ### Software Citations
 1. [Journal Production Guidance for Software and Data Citations](https://www.nature.com/articles/s41597-023-02491-7)
+2. [Software Citation Principles](https://force11.org/info/software-citation-principles-published-2016/)
+3. [citation-file-format](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md)
+4. [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/#/)
+5. [Citation File Format - Status and current challenges](https://zenodo.org/records/6990678)
+6. [How to cite and describe software](https://www.software.ac.uk/publication/how-cite-and-describe-software)
 
 ### Tech Bloggers (I like)
 1. https://third-bit.com/ideas/research/
