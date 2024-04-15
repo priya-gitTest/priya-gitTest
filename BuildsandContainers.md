@@ -9,3 +9,4 @@
 7. https://spacelift.io/blog/docker-security
 8. https://docs.docker.com/develop/dev-best-practices/
 9. https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+10. https://jacobtomlinson.dev/posts/2023/being-intentional-with-container-terminology/
