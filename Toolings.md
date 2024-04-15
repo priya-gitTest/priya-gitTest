@@ -14,6 +14,6 @@ https://github.com/DagsHub/fds
 11. [UV :Python packaging in Rust](https://astral.sh/blog/uv)
 12. [Avocado : Automated Testing](https://github.com/avocado-framework/avocado)
 13. https://testinfra.readthedocs.io/en/latest/
-14. 
+14. https://prospector.landscape.io/en/master/supported_tools.html
 
 
