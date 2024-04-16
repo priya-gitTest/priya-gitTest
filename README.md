@@ -60,6 +60,9 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 <img src="https://github.com/priya-gitTest/Priyanka/assets/21082240/62699f2c-7f08-4d29-9e84-5fbc3f27dfbb" width="350" height="250">
 
 
+Fine me ;) 
+![Uploading image.png…]()
+
 
 ## Food for Thought 
 ![image](https://github.com/priya-gitTest/priya-gitTest/assets/21082240/ebbdf868-bcad-4f71-b53e-2fc0eea4c900)
