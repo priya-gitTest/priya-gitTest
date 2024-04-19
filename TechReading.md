@@ -41,6 +41,7 @@
 28. Optimizing Dataflow Systems for Scalable Interactive Visualization : https://doi.org/10.1145/3639276
 29. LIT: Lightning-fast In-memory Temporal Indexing : https://doi.org/10.1145/3639275
 30. Optimizing Nested Recursive Queries : https://doi.org/10.1145/3639271
+31. https://github.com/earthlab/earthpy/blob/main/.zenodo.json
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
