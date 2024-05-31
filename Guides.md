@@ -32,3 +32,4 @@
 3. [Domain Language][(](https://www.domainlanguage.com/ddd/blue-book/)https://www.domainlanguage.com/ddd/blue-book/)
 4. [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
 5. [You should never be responsible for what you don't control](https://blog.alexewerlof.com/p/responsible-for-control)
+6. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011369
