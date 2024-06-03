@@ -5,6 +5,7 @@
 - https://third-bit.com/sdxpy/
 - https://www.modular.com/max/mojo
 - https://github.com/OpenMined/PySyft
+- https://developer-friendly.blog/2024/06/03/integration-testing-with-github-actions/#running-tests-in-the-ci
 
 
 ## Interesting Scientific Papers
