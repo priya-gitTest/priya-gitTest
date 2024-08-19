@@ -71,4 +71,4 @@ Find me ;)
 
 
 ## Food for Thought 
-![image](https://github.com/priya-gitTest/priya-gitTest/assets/21082240/ebbdf868-bcad-4f71-b53e-2fc0eea4c900)
+<img src="https://github.com/priya-gitTest/priya-gitTest/assets/21082240/ebbdf868-bcad-4f71-b53e-2fc0eea4c900" width="350" height="250">
