@@ -18,7 +18,7 @@
 13. [Nine Best Practices for Research Software Registries and Repositories:A Concise Guide](https://arxiv.org/pdf/2012.13117.pdf)
 14. [Citation File Format (CFF)](https://citation-file-format.github.io/) vs [BibTeX](https://www.bibtex.com/g/bibtex-format/)    [Conversion](https://news.ycombinator.com/item?id=28246899)
 15. [Software Heritage](https://docs.softwareheritage.org/index.html)
-16. https://edsbook.org/notebooks/about - also mentions RO-Crate
+16. https://edsbook.org/notebooks/about - also mentions RO-Crate, https://drive.google.com/file/d/1INJBUfC_YZf9qVtaZ_lMpSayaE2SXF5s/view 
 17. https://www.researchobject.org/ro-crate/
 18. https://www.rohub.org/
 19. [RO-Crate](https://www.researchobject.org/ro-crate/)
