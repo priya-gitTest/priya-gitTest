@@ -3,7 +3,7 @@
 
 *My opinions here in this repo are my own*
 ```
-General Purpose Software(Data) developer especially doing Python + SQL nowadays and tons of my own Research in the mighty Sun !!! .
+Data Management Professional, Software (data) Consultant Python + SQL  and tons of my own Research in the mighty Sun !!! .
 ```
 
 ```
