@@ -38,3 +38,7 @@
 7. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011272
 8. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011031
 9. 
+
+
+![image](https://github.com/user-attachments/assets/311a24a3-a906-4140-ae32-b432b22e6565)
+![image](https://github.com/user-attachments/assets/0d5e5abe-f305-4fa4-a39c-e344b54e5c64)
