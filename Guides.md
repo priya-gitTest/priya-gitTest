@@ -26,6 +26,7 @@
 5. [The Complete ‘How To’ Guide for Analyzing Data and Crafting Compelling Data Stories](https://the.datastory.guide/hc/en-us/articles/4570444289167-Checking-and-Understanding-Missing-Data)
 6. https://openreview.net/ ->OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface
 7. https://devhints.io/bash
+8. https://isabelizimm.me/posts/2024-04-05_learn-mlops/
 
 
 ## Articles/ Books
