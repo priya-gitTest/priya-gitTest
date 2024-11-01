@@ -13,6 +13,7 @@
 11. https://github.com/carpentries-lab/good-enough-practices
 12. https://chendaniely.github.io/python_setup/
 13. https://solutions.posit.co/write-code/
+14. https://ml-ops.org/content/mlops-principles
 
 
 ## Free Courses : 
