@@ -11,6 +11,7 @@
 9. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 10. [Creating an open source Python project from scratch](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
 11. https://github.com/carpentries-lab/good-enough-practices
+12. https://chendaniely.github.io/python_setup/
 
 
 ## Free Courses : 
