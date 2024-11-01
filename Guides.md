@@ -12,6 +12,7 @@
 10. [Creating an open source Python project from scratch](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
 11. https://github.com/carpentries-lab/good-enough-practices
 12. https://chendaniely.github.io/python_setup/
+13. https://solutions.posit.co/write-code/
 
 
 ## Free Courses : 
