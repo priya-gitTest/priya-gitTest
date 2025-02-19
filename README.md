@@ -62,6 +62,7 @@ patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
 <img src="https://github.com/priya-gitTest/Priyanka/assets/21082240/62699f2c-7f08-4d29-9e84-5fbc3f27dfbb" width="350" height="250">
 <img src="https://github.com/user-attachments/assets/7dcbd43a-13e0-4553-8f03-63827142a69c" width="350" height="250">
 <img src="https://github.com/user-attachments/assets/2f3936b5-7ab3-4ec1-996f-e8384b623db5" width="350" height="250">
+<img src="https://github.com/user-attachments/assets/970da864-c84f-4a2d-9625-d07909dcef15" width="350" height="250">
 
 
 
