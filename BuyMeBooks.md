@@ -8,3 +8,4 @@ Most people ask to buy a coffee on GitHub, I ask to buy books ;) Book sharing li
 - https://www.oreilly.com/library/view/deciphering-data-architectures/9781098150754/
 - https://www.oreilly.com/library/view/fundamentals-of-metadata/9781098162818/
 - https://www.oreilly.com/library/view/creating-software-with/9798888650219/
+- https://www.bol.com/nl/nl/f/enterprise-architecture-fundamentals/9300000036759930/
