@@ -43,6 +43,7 @@
 30. LIT: Lightning-fast In-memory Temporal Indexing : https://doi.org/10.1145/3639275
 31. Optimizing Nested Recursive Queries : https://doi.org/10.1145/3639271
 32. https://github.com/earthlab/earthpy/blob/main/.zenodo.json
+33. [EOSC-ENTRUST architectural blueprint including gap analysis](https://zenodo.org/records/14988869)
 
 ### Data Versioning
 1. [DVC: Data Version Control - Git for Data & Models](https://zenodo.org/records/10730123)
