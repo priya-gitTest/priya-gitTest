@@ -1,19 +1,20 @@
 ## Interesting Guides
 
 1. https://opensource.guide/
-2. [Research Engineering Handbook](https://alan-turing-institute.github.io/REG-handbook/)
-3. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://zenodo.org/records/7625728)
-4. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-5. [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
-6. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-7. [The twelve-factor methodology](https://12factor.net/)    [The Twelve-Factor App: Best Practices for Cloud-Native Applications](https://medium.com/@tech_18484/introduction-701b7a8f4730)
-8. [Python Design Patterns](https://python-patterns.guide/)
-9. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-10. [Creating an open source Python project from scratch](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
-11. https://github.com/carpentries-lab/good-enough-practices
-12. https://chendaniely.github.io/python_setup/
-13. https://solutions.posit.co/write-code/
-14. https://ml-ops.org/content/mlops-principles
+2. [Research Software Engineering A Guide to the Open Source Ecosystem](https://rse-book.github.io/)
+3. [Research Engineering Handbook](https://alan-turing-institute.github.io/REG-handbook/)
+4. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://zenodo.org/records/7625728)
+5. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+6. [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
+7. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+8. [The twelve-factor methodology](https://12factor.net/)    [The Twelve-Factor App: Best Practices for Cloud-Native Applications](https://medium.com/@tech_18484/introduction-701b7a8f4730)
+9. [Python Design Patterns](https://python-patterns.guide/)
+10. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+11. [Creating an open source Python project from scratch](https://jacobtomlinson.dev/series/creating-an-open-source-python-project-from-scratch/)
+12. https://github.com/carpentries-lab/good-enough-practices
+13. https://chendaniely.github.io/python_setup/
+14. https://solutions.posit.co/write-code/
+15. https://ml-ops.org/content/mlops-principles
 
 
 ## Free Courses : 
