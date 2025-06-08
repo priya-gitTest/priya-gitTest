@@ -44,6 +44,8 @@
 9. https://www.nature.com/articles/d41586-024-03344-y
 10. https://arxiv.org/pdf/2209.09125
 
+## AI
+1. [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
 ![image](https://github.com/user-attachments/assets/311a24a3-a906-4140-ae32-b432b22e6565)
 ![image](https://github.com/user-attachments/assets/0d5e5abe-f305-4fa4-a39c-e344b54e5c64)
