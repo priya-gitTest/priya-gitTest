@@ -46,6 +46,7 @@
 
 ## AI
 1. [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+2. https://llm-class.github.io/slides/Yann_Dubois.pdf
 
 ![image](https://github.com/user-attachments/assets/311a24a3-a906-4140-ae32-b432b22e6565)
 ![image](https://github.com/user-attachments/assets/0d5e5abe-f305-4fa4-a39c-e344b54e5c64)
