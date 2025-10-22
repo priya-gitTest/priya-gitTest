@@ -3,7 +3,7 @@
 
 *My opinions here in this repo are my own*
 ```
-Data Management Professional, Software (data) Consultant Python + SQL  and tons of my own Research in the mighty Sun !!! .
+Bridging Research, Software & Data | AI, Metadata, Open-Source, Agile & Project Management | Driving Impact Through Better Tools, Collaboration & Knowledge Sharing
 ```
 
 ```
@@ -20,36 +20,12 @@ Full version : https://ancientscience.in/rigveda/rigveda1-89-1
 
 My version : Let knowledge come to us from every side. !!!
 ```
+Currently busy with
+- [pixi tutorial](https://priya-gittest.github.io/Python-Packaging-with-Pixi/)
+- [JOSS_SoftwareRepositoryExtractor](https://github.com/priya-gitTest/JOSS_SoftwareRepositoryExtractor)
+- [CodeRepoAnalyzer](https://github.com/priya-gitTest/CodeRepoAnalyzer)
+- [Something coming Soon !]()
 
-Have tried my hands on MS-DOS, BASIC, Lotus, C, C++, FORTRAN, Visual Basic, VB.Net, ASP3.0, ASP.NET, C# , Powershell, Python, SQL.....
-
-Currently involved with Data Management, Open Data, Open Source and Open Science in Research (Medical / Educational) Domain, Policy making...
-
-Currently busy [with](https://github.com/priya-gitTest/priya-gitTest/blob/main/TechReading.md)
-
-Also see some interesting Guides / Tutorials [here](https://github.com/priya-gitTest/priya-gitTest/blob/main/Guides.md)
-
-Some [Tech Toolings](https://github.com/priya-gitTest/priya-gitTest/blob/main/Toolings.md) and [Notebooks](https://github.com/priya-gitTest/priya-gitTest/blob/main/NoteBooks.md)
-
-Some very small bits of open contributions.. rest is all in some SILO :(
-
-[OC-0544 Distributed learning on 20 000+ lung cancer
-patients](http://dx.doi.org/10.1016/S0167-8140(19)30964-8)
-
-[Distributed learning on 20 000+ lung cancer patients – The Personal Health Train](http://dx.doi.org/10.1016/j.radonc.2019.11.019)
-
----
-[The Worldwide Pandas Documentation Sprint: A Closer Look](https://numfocus.org/blog/worldwide-pandas-sprint)
-
-[A Data Management Plan](https://dmponline.dcc.ac.uk/plans/85128/export.pdf?export%5Bquestion_headings%5D=true)
-
-[RSE Catalyst Awards](https://society-rse.org/rse-catalyst-awards/)
-
-## Open Source Contributions :
-  1. https://github.com/pydantic/pydantic/issues/6700, https://github.com/pydantic/pydantic/pull/9088
-  2. https://github.com/Health-RI/SeMPyRO/pull/25
-
-## [BookBuyList](https://github.com/priya-gitTest/priya-gitTest/blob/main/BuyMeBooks.md) ;) 
 ## Some pics for entertainment :) 
 
 <img src="https://github.com/priya-gitTest/Priyanka/assets/21082240/1db0a0f8-43cf-46e4-97bb-7d21498b9c35" width="350" height="250">
